@@ -1,2 +1,2 @@
 # face-detector-webapp-simple-v1
-A Simple Face Detector Webapp
+A Simple Face Detector Webapp using Flask 
